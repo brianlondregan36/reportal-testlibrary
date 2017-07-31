@@ -1,1 +1,10 @@
-//TESTING1,2,3... 
+Class TestMessage
+{
+	var message : String; 
+	var type : String; 
+
+	function PrintMessage()
+	{
+		return message; 
+	}
+}
