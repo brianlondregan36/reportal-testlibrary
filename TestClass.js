@@ -1,4 +1,4 @@
-Class TestMessage
+class TestMessage
 {
 	var message : String; 
 	var type : String; 
